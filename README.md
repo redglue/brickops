@@ -1,8 +1,8 @@
+# BrickOps
+Make everything magically appear in Databricks, libraries, notebooks, and jobs. For CI/CD use with tools like Jekins.
+
 # Apparate
-Make your libraries magically appear in Databricks.
-
-![apparate](https://pa1.narvii.com/6547/b8fd048a32aa591dbae528f4a80e67cb87112317_hq.gif)
-
+This is a fork of Apparate and original code is from ShopRunner/apparate
 
 ## Why we built this
 
